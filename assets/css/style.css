@@ -3,6 +3,7 @@
   padding: 0;
   font-family: "Nunito", sans-serif;
   font-weight: 200;
+  color: #9db4c0;
 }
 
 body {
@@ -17,7 +18,20 @@ body {
 }
 
 h1 {
+  font-size: 3rem;
+}
+
+.main-container {
   margin-top: 6rem;
   margin-left: 6rem;
-  font-size: 3rem;
+}
+
+.shortExpl {
+  margin-top: 2rem;
+}
+
+.shortExpl li {
+  font-size: 1.35rem;
+  margin-left: 1.75rem;
+  padding: 0.5rem 0;
 }
